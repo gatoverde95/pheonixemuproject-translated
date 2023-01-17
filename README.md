@@ -35,3 +35,27 @@ PhoenixEmuProject Translate は、PhoenixEmuProject エミュレーターをさ�
 한국어
 
 PhoenixEmuProject Translate는 PhoenixEmuProject Emulator가 사용 가능한 다양한 언어(Face Beta에서도)로 번역하고 프로그램 헤더를 패치하기 위해 최선을 다하는 프로젝트입니다.
+
+Українська
+
+PhoenixEmuProject Translate — це проект, який докладає всіх зусиль, щоб змусити PhoenixEmuProject Emulator перекладати на широкий спектр доступних мов (навіть у бета-версії Face) і виправляти заголовок програми.
+
+Српски
+
+ПхоеникЕмуПројецт Транслате је пројекат који даје све од себе да учини да емулатор ПхоеникЕмуПројецт преведе на широку палету доступних језика (чак и у Фаце Бета) и закрпи заглавље програма.
+
+български
+
+PhoenixEmuProject Translate е проект, който прави всичко възможно, за да накара PhoenixEmuProject Emulator да превежда на голямо разнообразие от налични езици (дори във Face Beta) и да коригира заглавката на програмата.
+
+Suomi
+
+PhoenixEmuProject Translate on projekti, joka tekee parhaansa saadakseen PhoenixEmuProject Emulatorin kääntämään laajan valikoiman saatavilla olevia kieliä (jopa Face Beta -versiossa) ja korjaamaan ohjelman otsikon.
+
+Hrvatski
+
+PhoenixEmuProject Translate je projekt koji daje sve od sebe kako bi PhoenixEmuProject Emulator preveo na široku paletu dostupnih jezika (čak i u Face Beta) i zakrpao zaglavlje programa.
+
+Eesti keel
+
+PhoenixEmuProjecti tõlge on projekt, mis teeb kõik endast oleneva, et PhoenixEmuProjecti emulaator tõlgiks paljudesse saadaolevatesse keeltesse (isegi Face beetaversioonis) ja parandaks programmi päist.
